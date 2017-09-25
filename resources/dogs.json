@@ -1,0 +1,23 @@
+{
+    "success": "true",
+    "dogs": [
+        {
+            "name": "Tyzik",
+            "age": 4,
+            "breed": "Apso",
+            "homeless": false
+        },
+        {
+            "name": "Jack",
+            "age": 11,
+            "breed": "Shepherd",
+            "homeless": false
+        },
+        {
+            "name": "Dobby",
+            "age": 3,
+            "breed": "Doberman",
+            "homeless": true
+        }
+    ]
+}

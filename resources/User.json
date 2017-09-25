@@ -1,0 +1,154 @@
+{
+  "success": "true",
+  "user": [{
+      "id": 1,
+      "firstName": "Jean",
+      "lastName": "Grey",
+      "officeLocation": "Lawrence, KS",
+      "phoneNumber": "(372) 792-6728"
+    }, {
+      "id": 2,
+      "firstName": "Phillip",
+      "lastName": "Fry",
+      "officeLocation": "Lawrence, KS",
+      "phoneNumber": "(318) 224-8644"
+    }, {
+      "id": 3,
+      "firstName": "Peter",
+      "lastName": "Quill",
+      "officeLocation": "Redwood City, CA",
+      "phoneNumber": "(718) 480-8560"
+    }, {
+      "id": 4,
+      "firstName": "Jessica",
+      "lastName": "Wright",
+      "officeLocation": "Frederick, MD",
+      "phoneNumber": "(812) 522-7104"
+    }, {
+      "id": 5,
+      "firstName": "Juan",
+      "lastName": "Stone",
+      "officeLocation": "Redwood City, CA",
+      "phoneNumber": "(837) 379-6432"
+    }, {
+      "id": 6,
+      "firstName": "Jessica",
+      "lastName": "Jones",
+      "officeLocation": "Redwood City, CA",
+      "phoneNumber": "(662) 494-7517"
+    }, {
+      "id": 7,
+      "firstName": "Rose",
+      "lastName": "Simpson",
+      "officeLocation": "Redwood City, CA",
+      "phoneNumber": "(857) 264-9899"
+    }, {
+      "id": 8,
+      "firstName": "Mildred",
+      "lastName": "Ruiz",
+      "officeLocation": "Redwood City, CA",
+      "phoneNumber": "(443) 323-9518"
+    }, {
+      "id": 9,
+      "firstName": "Ruth",
+      "lastName": "Murphy",
+      "officeLocation": "Lawrence, KS",
+      "phoneNumber": "(516) 884-5081"
+    }, {
+      "id": 10,
+      "firstName": "Alan",
+      "lastName": "Washington",
+      "officeLocation": "Frederick, MD",
+      "phoneNumber": "(725) 915-8297"
+    }, {
+      "id": 11,
+      "firstName": "Catherine",
+      "lastName": "Murphy",
+      "officeLocation": "Redwood City, CA",
+      "phoneNumber": "(227) 546-3855"
+    }, {
+      "id": 12,
+      "firstName": "Helen",
+      "lastName": "Owens",
+      "officeLocation": "Redwood City, CA",
+      "phoneNumber": "(483) 127-7184"
+    }, {
+      "id": 13,
+      "firstName": "Eric",
+      "lastName": "Lee",
+      "officeLocation": "Redwood City, CA",
+      "phoneNumber": "(788) 756-7666"
+    }, {
+      "id": 14,
+      "firstName": "Donald",
+      "lastName": "Dean",
+      "officeLocation": "Lawrence, KS",
+      "phoneNumber": "(846) 214-2178"
+    }, {
+      "id": 15,
+      "firstName": "Ronald",
+      "lastName": "Edwards",
+      "officeLocation": "Lawrence, KS",
+      "phoneNumber": "(342) 146-2793"
+    }, {
+      "id": 16,
+      "firstName": "Carlos",
+      "lastName": "Wright",
+      "officeLocation": "Redwood City, CA",
+      "phoneNumber": "(958) 869-8461"
+    }, {
+      "id": 17,
+      "firstName": "Rachel",
+      "lastName": "Kim",
+      "officeLocation": "Lawrence, KS",
+      "phoneNumber": "(921) 823-8187"
+    }, {
+      "id": 18,
+      "firstName": "Jennifer",
+      "lastName": "Day",
+      "officeLocation": "Frederick, MD",
+      "phoneNumber": "(566) 375-8600"
+    }, {
+      "id": 19,
+      "firstName": "Victor",
+      "lastName": "Reid",
+      "officeLocation": "Frederick, MD",
+      "phoneNumber": "(873) 846-5132"
+    }, {
+      "id": 20,
+      "firstName": "Charles",
+      "lastName": "Ramirez",
+      "officeLocation": "Lawrence, KS",
+      "phoneNumber": "(260) 431-1648"
+    }, {
+      "id": 21,
+      "firstName": "Mary",
+      "lastName": "Miller",
+      "officeLocation": "Lawrence, KS",
+      "phoneNumber": "(197) 844-8417"
+    }, {
+      "id": 22,
+      "firstName": "Lawrence",
+      "lastName": "Ramirez",
+      "officeLocation": "Redwood City, CA",
+      "phoneNumber": "(368) 884-2585"
+    }, {
+      "id": 23,
+      "firstName": "Roy",
+      "lastName": "Carroll",
+      "officeLocation": "Frederick, MD",
+      "phoneNumber": "(153) 192-7967"
+    }, {
+      "id": 24,
+      "firstName": "Christopher",
+      "lastName": "Rogers",
+      "officeLocation": "Lawrence, KS",
+      "phoneNumber": "(286) 360-1439"
+    }, {
+      "id": 25,
+      "firstName": "Phyllis",
+      "lastName": "Patterson",
+      "officeLocation": "Frederick, MD",
+      "phoneNumber": "(915) 877-4798"
+    }]
+}
